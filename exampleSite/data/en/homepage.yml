@@ -15,8 +15,9 @@ about:
   title: About me
   description: From France to Scotland...
   content: 'After receiving a PhD thesis from the University of Toulouse (France),
-    I came to Scotland in 2014 and never left! I am currently a Royal Academy of Engineering
-    Research Fellow at the University of Glasgow. '
+    I came to Scotland in 2014 and never left. I am currently a Royal Academy of Engineering
+    Research Fellow at the University of Glasgow. My research interests are microfluidics,
+    sample processing and medical/environmental diagnostics. '
   image: images/wrapper-img.png
 portfolio:
   enable: true
