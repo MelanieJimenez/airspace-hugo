@@ -3,10 +3,11 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   title: 'Welcome in our lab ! '
-  content: 'We love research and we love to engage '
+  content: 'We love manipulating cells and fluids at the microscopic scale to engineer
+    devices that will help everyone have a better health '
   button:
     enable: true
-    label: Discover Our Project
+    label: Discover Our Projects
     link: project
 about:
   enable: true
