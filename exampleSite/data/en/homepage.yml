@@ -10,12 +10,11 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: I am a Royal Academy of Engineering Research Fellow at the University of
-    Glasgow ..
+  title: About me
+  description: From France to Scotland...
+  content: 'After receiving a PhD thesis from the University of Toulouse (France),
+    I came to Scotland in 2014 and never left! I am currently a Royal Academy of Engineering
+    Research Fellow at the University of Glasgow. '
   image: images/wrapper-img.png
 portfolio:
   enable: true
