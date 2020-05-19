@@ -30,9 +30,9 @@ portfolio:
     understand cells; in our group, devices are used to either characterise cells
     (e.g., terms of size, shape, deformability), sort or detect them. Our overarching
     aim is to have a healthier nation and we use these technologies for applications
-    such as: \n- waterborne pathogen detection in drinking water \n- stem cell bioprocessing
-    \n- parasite characterisation to better understand neglected tropical diseases
-    \n- pathogen enrichment from clinical sample for rapid sepsis diagnostics \n"
+    such as: \n1. waterborne pathogen detection in drinking water \n2. stem cell bioprocessing
+    \n3. parasite characterisation to better understand neglected tropical diseases
+    \n4. pathogen enrichment from clinical sample for rapid sepsis diagnostics \n"
   button:
     enable: false
     label: View Current Projects
