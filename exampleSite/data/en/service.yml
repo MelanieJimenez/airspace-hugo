@@ -38,7 +38,7 @@ service:
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics....(Mel)
   service_item:
-  - icon: test
+  - icon: ion-coffee
     name: hello
     content: 'adding an extra item '
   - icon: ion-coffee
