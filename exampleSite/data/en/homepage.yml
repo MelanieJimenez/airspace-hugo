@@ -26,7 +26,11 @@ portfolio:
   enable: true
   bg_image: images/picture-1.png
   title: WE WANT A BETTER HEALTH FOR EVERYONE
-  content: 'We strongly believe in the capabilities of miniaturised systems to better '
+  content: We strongly believe in the capabilities of miniaturised systems to better
+    understand cells; in our group, devices are used to either characterise cells
+    (e.g., terms of size, shape, deformability), sort or detect them. We use these
+    technologies for a wide range of cells including waterborne or blood borne pathogens,
+    stem cells or parasites.
   button:
     enable: true
     label: View Works
