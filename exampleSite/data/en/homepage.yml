@@ -4,8 +4,8 @@ banner:
   bg_image: images/img_1725-2.JPG
   title: 'Welcome in our lab ! '
   content: We love manipulating cells and fluids at the microscopic scale. We engineer
-    miniaturised devices that allow us to do that to better understand diseases and
-    to better diagnose them.
+    miniaturised devices that allow us to do that in order to better understand diseases
+    and to better diagnose them.
   button:
     enable: true
     label: Discover Our Projects
