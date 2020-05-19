@@ -14,11 +14,13 @@ about:
   enable: true
   title: About me
   description: From France to Scotland...
-  content: 'After receiving a PhD thesis from the University of Toulouse (France),
-    I came to beautiful Scotland in 2014. I am currently a Royal Academy of Engineering
-    Research Fellow at the University of Glasgow leading a research group focusing
-    on microfluidics, sample processing and medical/environmental diagnostics. I am
-    also an advocate for interdisciplinary research and engagement. '
+  content: 'After receiving a PhD thesis from the University of Toulouse (France)
+    in the field of waste water treatment, I came to beautiful Scotland in 2014 to
+    first work on waterborne pathogen detection and then medical diagnostics. I am
+    currently a Royal Academy of Engineering Research Fellow at the University of
+    Glasgow leading a research group focusing on microfluidics, sample processing
+    and medical/environmental diagnostics. I am also an enthusiastic science communicator
+    and advocate for interdisciplinary research. '
   image: images/wrapper-img.png
 portfolio:
   enable: true
