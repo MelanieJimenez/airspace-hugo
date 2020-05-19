@@ -3,8 +3,9 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   title: 'Welcome in our lab ! '
-  content: 'We love manipulating cells and fluids at the microscopic scale to engineer
-    devices that will help everyone have a better health '
+  content: We love manipulating cells and fluids at the microscopic scale. We engineer
+    miniaturised devices that allow us to do that to better understand diseases and
+    to better diagnose them.
   button:
     enable: true
     label: Discover Our Projects
