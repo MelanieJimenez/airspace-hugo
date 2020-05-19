@@ -34,7 +34,7 @@ portfolio:
     diagnostics (e.g., detection of blood stream infections) to bioprocessing. '
   button:
     enable: true
-    label: View Works
+    label: View Current Projects
     link: project
 service:
   enable: true
