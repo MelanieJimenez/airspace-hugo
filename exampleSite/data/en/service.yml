@@ -3,7 +3,7 @@ about:
   enable: true
   title: 'Welcome in our lab ! '
   content: Dr Mel is...
-  image: "/images/sequence1.JPG"
+  image: images/sequence1.JPG
 featured_service:
   enable: true
   service_item:
