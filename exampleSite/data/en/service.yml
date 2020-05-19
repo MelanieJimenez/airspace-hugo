@@ -39,7 +39,7 @@ service:
     right at the coast of the Semantics....(Mel)
   service_item:
   - icon: ion-coffee
-    name: hello
+    name: hello 2
     content: 'adding an extra item '
   - icon: ion-coffee
     name: Branding
