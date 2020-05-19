@@ -33,7 +33,9 @@ portfolio:
     use our technologies for applications such as: \n1. waterborne pathogen detection
     in drinking water \n2. stem cell bioprocessing \n3. parasite characterisation
     to better understand neglected tropical diseases \n4. pathogen enrichment from
-    clinical sample for rapid sepsis diagnostics \n"
+    clinical sample for rapid sepsis diagnostics \n\nYou can find more information
+    about some of our current projects on this website and feel free to get in touch
+    if you want more details. "
   button:
     enable: false
     label: View Current Projects
