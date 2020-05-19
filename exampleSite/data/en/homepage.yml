@@ -15,9 +15,10 @@ about:
   title: About Melanie
   description: From France to Scotland...
   content: 'After receiving a PhD thesis from the University of Toulouse (France),
-    I came to Scotland in 2014. I am currently a Royal Academy of Engineering Research
-    Fellow at the University of Glasgow. My research interests are around microfluidics,
-    sample processing, medical/environmental diagnostics and antimicrobial resistance. '
+    Melanie came to beautiful Scotland in 2014. She is currently a Royal Academy of
+    Engineering Research Fellow at the University of Glasgow. Her research interests
+    are around microfluidics, sample processing and medical/environmental diagnostics.
+    She is also an advocate for interdisciplinary research and engagement. '
   image: images/wrapper-img.png
 portfolio:
   enable: true
