@@ -27,12 +27,13 @@ portfolio:
   bg_image: images/picture-4.png
   title: WE WANT A BETTER HEALTH FOR EVERYONE
   content: "We strongly believe in the capabilities of miniaturised systems to better
-    understand cells; in our group, devices are used to either characterise cells
-    (e.g., terms of size, shape, deformability), sort or detect them. Our overarching
-    aim is to have a healthier nation and we use these technologies for applications
-    such as: \n1. waterborne pathogen detection in drinking water \n2. stem cell bioprocessing
-    \n3. parasite characterisation to better understand neglected tropical diseases
-    \n4. pathogen enrichment from clinical sample for rapid sepsis diagnostics \n"
+    understand cells; in our group, we design, test and optimise devices that are
+    used to either characterise cells (e.g., in terms of size, shape, deformability),
+    sort or detect them. Our overarching aim is to have a healthier nation and we
+    use these technologies for applications such as: \n1. waterborne pathogen detection
+    in drinking water \n2. stem cell bioprocessing \n3. parasite characterisation
+    to better understand neglected tropical diseases \n4. pathogen enrichment from
+    clinical sample for rapid sepsis diagnostics \n"
   button:
     enable: false
     label: View Current Projects
