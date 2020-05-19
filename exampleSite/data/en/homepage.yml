@@ -24,16 +24,9 @@ about:
   image: images/wrapper-img.png
 portfolio:
   enable: true
-  bg_image: images/featue-bg.jpg
+  bg_image: images/img_1217.JPG
   title: WE WANT A BETTER HEALTH FOR EVERYONE
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  content: 'We strongly believe in the capabilities of miniaturised systems to better '
   button:
     enable: true
     label: View Works
